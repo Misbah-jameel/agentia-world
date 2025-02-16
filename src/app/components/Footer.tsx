@@ -56,16 +56,16 @@ const Footer = () => {
           </div>
           {/* <h3 className="text-xl font-semibold text-white mt-8">Follow Us</h3> */}
         <div className="flex gap-2 mt-5">
-         <Link href="https://www.instagram.com" target="_blank">
+         <Link href="https://www.instagram.com/misbahjameel66?igsh=eTc0cTU3aTg4Yjh0" target="_blank">
             <FaInstagram className="text-gray-400 hover:text-purple-400 text-2xl transition-all" />
           </Link>
-          <Link href="https://www.linkedin.com" target="_blank">
+          <Link href="https://www.linkedin.com/in/misbah-jameel-509aa32b8" target="_blank">
             <FaLinkedin className="text-gray-400 hover:text-purple-400 text-2xl transition-all" />
           </Link>
-          <Link href="https://github.com" target="_blank">
+          <Link href="https://github.com/Misbah-jameel" target="_blank">
             <FaGithub className="text-gray-400 hover:text-purple-400 text-2xl transition-all" />
           </Link>
-          <Link href="https://www.tiktok.com" target="_blank">
+          <Link href="https://www.tiktok.com/@misbahjameel66?_t=ZS-8tqoTk2eHE0&_r=1" target="_blank">
             <FaTiktok className="text-gray-400 hover:text-purple-400 text-2xl transition-all" />
           </Link> 
         </div>
